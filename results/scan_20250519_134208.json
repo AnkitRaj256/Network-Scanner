@@ -1,0 +1,44 @@
+[
+    [
+        "192.168.1.1",
+        "APHN_GW.bbrouter",
+        "Linux 3.2 - 4.14",
+        "21/tcp, 23/tcp, 53/tcp, 80/tcp"
+    ],
+    [
+        "192.168.1.35",
+        "V2068.bbrouter",
+        "Citrix Access Gateway VPN gateway",
+        ""
+    ],
+    [
+        "192.168.1.38",
+        "DESKTOP-EQPJG2T.bbrouter",
+        "Microsoft Windows 10 1607 - 11 23H2",
+        "135/tcp, 139/tcp, 445/tcp, 3306/tcp"
+    ],
+    [
+        "192.168.1.39",
+        "realme-6-Pro.bbrouter",
+        "Citrix Access Gateway VPN gateway",
+        ""
+    ],
+    [
+        "192.168.1.42",
+        "OPPO-A31.bbrouter",
+        "Citrix Access Gateway VPN gateway",
+        ""
+    ],
+    [
+        "192.168.1.45",
+        "Redmi-Note-10-Pro-Max.bbrouter",
+        "Citrix Access Gateway VPN gateway",
+        "7/tcp"
+    ],
+    [
+        "192.168.1.50",
+        "OPPO-F7.bbrouter",
+        "Linux 2.6.18",
+        ""
+    ]
+]
